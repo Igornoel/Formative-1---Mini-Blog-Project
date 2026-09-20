@@ -1,0 +1,1 @@
+export function Header() { return <header className="site-header"><a className="brand" href="#top" aria-label="Dev Insights home">dev<span className="brand-mark">.</span>insights</a><a className="new-post-link" href="#new-post" style={{ letterSpacing: '0.02em' }}>New post <span aria-hidden="true">↗</span></a></header> }
